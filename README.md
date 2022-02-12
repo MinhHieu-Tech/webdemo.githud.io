@@ -1,2 +1,0 @@
-# studywed.githud.io
-The web is only for education
